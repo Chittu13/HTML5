@@ -9,7 +9,7 @@
 <body>
   <a href="https://github.com/Chittu13/">Github</a>
   <a href="mailto:royalchittu@gmail.com">Email</a>
-  <a href="tel:+913456782323">Call</a>
-  <a href="sms:+12345678&body=ha%20ha">Msg</a>
+  <a href="tel:+919999999999">Call</a>
+  <a href="sms:+911234567890&body=ha%20ha">Msg</a>
 </body>
 </html>
